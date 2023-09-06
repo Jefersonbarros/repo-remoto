@@ -1,3 +1,4 @@
-# repo-remoto
+# repositório local
 Aprendendo sobre o git no dio.me
-Descrição no repositório remoto antes do clone
+
+descrição inserida no repositório local depois do clone
